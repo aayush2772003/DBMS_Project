@@ -1,0 +1,6 @@
+USER         PASSWORD
+
+aashutosh -> 'aashutosh'
+manager -> 'managerPassword'
+
+tom@db.com -> 'tomPassword'  -> "User"
